@@ -69,7 +69,95 @@ ul li{
     background-repeat: no-repeat;
 }
 
-p{
-    margin: 8px 0px 7px;
-    cursor:pointer;
+.class{
+    position: absolute;
+    margin: 42px 0px 0px 0px;
+}
+
+.JACKETS-SUITS{
+    position: absolute;
+    margin: 32px 0px 0px 21px;
+    text-decoration: none;
+    padding: 4px 0px 4px 0px;
+    color: #000000d9;
+}
+
+.BLAZERS{
+    position: absolute;
+    margin: 84px 0px 0px 21px;
+    text-decoration: none;
+    padding: 4px 0px 4px 0px;
+    color: #000000d9;
+}
+
+.KNITWEAR{
+    position: absolute;
+    margin: 112px 0px 0px 21px;
+    text-decoration: none;
+    padding: 4px 0px 4px 0px;
+    color: #000000d9;
+}
+
+.DRESSES{
+    position: absolute;
+    margin: 61px 0px 0px 21px;
+    text-decoration: none;
+    padding: 4px 0px 4px 0px;
+    color: #000000d9;
+}
+
+.JUMPSUITS{
+    position: absolute;
+    margin: 142px 0px 0px 21px;
+    text-decoration: none;
+    padding: 4px 0px 4px 0px;
+    color: #000000d9;
+}
+
+.TOPS{
+    position: absolute;
+    margin: 171px 0px 0px 21px;
+    text-decoration: none;
+    padding: 4px 0px 4px 0px;
+    color: #000000d9;
+}
+
+.T-SHIRTS{
+    position: absolute;
+    margin: 198px 0px 0px 21px;
+    text-decoration: none;
+    padding: 4px 0px 4px 0px;
+    color: #000000d9;
+}
+
+.TROUSERS{
+    position: absolute;
+    margin: 225px 0px 0px 21px;
+    text-decoration: none;
+    padding: 4px 0px 4px 0px;
+    color: #000000d9;
+}
+
+.JEANS{
+    position: absolute;
+    margin: 253px 0px 0px 21px;
+    text-decoration: none;
+    padding: 4px 0px 4px 0px;
+    color: #000000d9;
+}
+
+.SKIRTS{
+    position: absolute;
+    margin: 280px 0px 0px 21px;
+    text-decoration: none;
+    padding: 4px 0px 4px 0px;
+    color: #000000d9;
+}
+
+.SWEATSHIRTS{
+    position: absolute;
+    margin: 304px 0px 0px 21px;
+    text-decoration: none;
+    padding: 4px 0px 4px 0px;
+    color: #000000d9;
 }
