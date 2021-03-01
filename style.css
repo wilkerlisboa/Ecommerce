@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    width: 100%;
+    height: 519px;
+    background: url(https://images.unsplash.com/photo-1581182800629-7d90925ad072?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=750&q=80);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+.First-Title{
+    font-size: 72px;
+    position: absolute;
+    margin: 194px 0px 0px 454px;
+    letter-spacing: 29px;
+    font-style: normal;
+    font-weight: 300;
+}
+
+
+
+ul li{
+    display: inline-block;
+    margin: 20px;
+    padding: 10px 0px 0px 137px;
+    list-style: none;
+    color: white; 
+}
+
+#categoria {
+    width: 231px;
+    height: 371px;
+    position: absolute;
+    margin: 41px 0px 0px 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.title{
+    position: absolute;
+    margin: 0px 0px 0px 38px;
+    letter-spacing: 1px;
+    font-size: 18px;
+    font-weight: 400;
+    color: #000000ad;
+}
+
+#Produtos{
+    width: 1055px;
+    height: 695px;
+    background: red;
+    position: absolute;
+    margin: 41px 0px 0px 277px;
+}
+
+
+
+.icon{
+    width: 30px;
+    height: 20px;
+    background: url(./icons/align-left.svg);
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+p{
+    margin: 8px 0px 7px;
+    cursor:pointer;
+}
