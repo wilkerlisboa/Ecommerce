@@ -165,8 +165,37 @@ ul li{
 footer{
     width: 100%;
     height: 91px;
-    padding: 5px;
-    background: rgb(138 43 226);
+    padding: 9px 0px 12px 0px;
     position: absolute;
     margin: 759px 0px 0px 0px;
+}
+
+.Instagram{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    margin: 14px 0px 0px 500px;
+    background: url(./icons/instagram.svg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Github{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    margin: 14px 0px 0px 573px;
+    background: url(./icons/github.svg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#Title_Roda_Pé{
+    font-family: 'Ubuntu Mono', monospace;
+    font-size: 19px;
+    margin: 0px 0px 0px 455px;
+    font-style: normal;
+    font-weight: 100;
 }
