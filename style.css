@@ -54,6 +54,7 @@ ul li{
 #Produtos{
     width: 1055px;
     height: 695px;
+    display: flex;
     background: red;
     position: absolute;
     margin: 41px 0px 0px 277px;
@@ -198,4 +199,41 @@ footer{
     margin: 0px 0px 0px 455px;
     font-style: normal;
     font-weight: 100;
+}
+
+#Vestido-01{
+    width: 250px;
+    height: 371px;
+    background: url(https://images.unsplash.com/photo-1614245162029-029e78a75d82?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+    margin: 42px 0px 0px 20px;
+    box-shadow: 0px 27px 56px -13px #000000ad;
+}
+
+#Vestido-02{
+    width: 250px;
+    height: 371px;
+    background: url(https://images.unsplash.com/photo-1571693543536-5aa56a993096?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=334&q=80);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+    margin: 42px 0px 0px 50px;
+    box-shadow: 0px 27px 56px -13px #000000ad;
+}
+
+
+#Vestido-03{
+    width: 250px;
+    height: 371px;
+    background: url(https://images.unsplash.com/photo-1571693543536-5aa56a993096?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=334&q=80);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+    margin: 42px 0px 0px 80px;
+    box-shadow: 0px 27px 56px -13px #000000ad;
 }
