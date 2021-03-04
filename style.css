@@ -51,17 +51,6 @@ ul li{
     color: #000000ad;
 }
 
-#Produtos{
-    width: 1055px;
-    height: 695px;
-    display: flex;
-    background: red;
-    position: absolute;
-    margin: 41px 0px 0px 277px;
-}
-
-
-
 .icon{
     width: 30px;
     height: 20px;
@@ -168,14 +157,14 @@ footer{
     height: 91px;
     padding: 9px 0px 12px 0px;
     position: absolute;
-    margin: 759px 0px 0px 0px;
+    margin: 941px 0px 0px 0px;
 }
 
 .Instagram{
     width: 40px;
     height: 40px;
     position: absolute;
-    margin: 14px 0px 0px 500px;
+    margin: 14px 0px 0px 552px;
     background: url(./icons/instagram.svg);
     background-position: center center;
     background-repeat: no-repeat;
@@ -186,7 +175,7 @@ footer{
     width: 40px;
     height: 40px;
     position: absolute;
-    margin: 14px 0px 0px 573px;
+    margin: 14px 0px 0px 623px;
     background: url(./icons/github.svg);
     background-position: center center;
     background-repeat: no-repeat;
@@ -196,9 +185,23 @@ footer{
 #Title_Roda_Pé{
     font-family: 'Ubuntu Mono', monospace;
     font-size: 19px;
-    margin: 0px 0px 0px 455px;
+    margin: 0px 0px 0px 500px;
     font-style: normal;
     font-weight: 100;
+}
+
+#Produtos{
+    width: 1055px;
+    height: 889px;
+    display: flex;
+    overflow-y: scroll;
+    position: absolute;
+    background: red;
+    margin: 41px 0px 0px 277px;
+}
+
+::-webkit-scrollbar{
+    background: black;
 }
 
 #Vestido-01{
@@ -209,8 +212,8 @@ footer{
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 5px;
-    margin: 42px 0px 0px 20px;
-    box-shadow: 0px 27px 56px -13px #000000ad;
+    margin: 42px 0px 0px 103px;
+    box-shadow: 0px 40px 33px -29px #000000ad;
 }
 
 #Vestido-02{
@@ -221,8 +224,8 @@ footer{
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 5px;
-    margin: 42px 0px 0px 50px;
-    box-shadow: 0px 27px 56px -13px #000000ad;
+    margin: 42px 0px 0px 62px;
+    box-shadow: 0px 40px 33px -29px #000000ad;
 }
 
 
@@ -235,5 +238,65 @@ footer{
     background-size: cover;
     border-radius: 5px;
     margin: 42px 0px 0px 80px;
-    box-shadow: 0px 27px 56px -13px #000000ad;
+    box-shadow: 0px 40px 33px -29px #000000ad;
+}
+
+.roupa-01{
+    width: 186px;
+    height: 217px;
+    position: absolute;
+    margin: 491px 0px 0px 103px;
+    background: url(https://images.unsplash.com/photo-1614676489559-5ee9f89edf70?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80);
+    border-radius: 5px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.roupa-02{
+    width: 186px;
+    height: 217px;
+    position: absolute;
+    margin: 491px 0px 0px 340px;
+    background: url(https://images.unsplash.com/photo-1596783074918-c84cb06531ca?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80);
+    border-radius: 5px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.roupa-03{
+    width: 186px;
+    height: 217px;
+    position: absolute;
+    margin: 491px 0px 0px 585px;
+    background: url(https://images.unsplash.com/photo-1596783047904-4000addd05cd?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80);
+    border-radius: 5px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.roupa-04{
+    width: 186px;
+    height: 217px;
+    position: absolute;
+    margin: 491px 0px 0px 809px;
+    background: url(https://images.unsplash.com/photo-1595868321403-bac51fbdeb97?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=334&q=80s);
+    border-radius: 5px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.roupa-05{
+    width: 186px;
+    height: 217px;
+    position: absolute;
+    margin: 758px 0px 0px 103px;
+    background: url(https://images.unsplash.com/photo-1589451359791-f9c33af92239?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=618&q=80);
+    border-radius: 5px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
