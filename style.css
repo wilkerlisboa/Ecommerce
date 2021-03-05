@@ -6,8 +6,8 @@
 header{
     width: 100%;
     height: 519px;
-    background: url(https://images.unsplash.com/photo-1581182800629-7d90925ad072?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=750&q=80);
-    background-position: center center;
+    background: url(https://images.unsplash.com/photo-1571887751457-5cd3309e0038?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=750&q=80);
+    background-position: center top;
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
@@ -337,7 +337,7 @@ footer{
     background-repeat: no-repeat;
     background-size: cover;
 }
-.
+
 .roupa-09{
     width: 186px;
     height: 217px;
