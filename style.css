@@ -3,6 +3,7 @@
     padding: 0;
 }
 
+/*Header*/
 header{
     width: 100%;
     height: 519px;
@@ -15,6 +16,16 @@ header{
     color: white;
 }
 
+/*Menu Inside Header*/
+ul li{
+    display: inline-block;
+    margin: 20px;
+    padding: 10px 0px 0px 137px;
+    list-style: none;
+    color: white; 
+}
+
+/*First Title Inside Header*/
 .First-Title{
     font-size: 72px;
     position: absolute;
@@ -24,16 +35,7 @@ header{
     font-weight: 300;
 }
 
-
-
-ul li{
-    display: inline-block;
-    margin: 20px;
-    padding: 10px 0px 0px 137px;
-    list-style: none;
-    color: white; 
-}
-
+/*Categories Inside Of The Section*/
 #categoria {
     width: 231px;
     height: 371px;
@@ -42,6 +44,7 @@ ul li{
     font-family: 'Roboto', sans-serif;
 }
 
+/*Title Of The Category*/
 .title{
     position: absolute;
     margin: 0px 0px 0px 38px;
@@ -51,6 +54,7 @@ ul li{
     color: #000000ad;
 }
 
+/*Icon Of The Category*/
 .icon{
     width: 30px;
     height: 20px;
@@ -59,14 +63,10 @@ ul li{
     background-repeat: no-repeat;
 }
 
-.class{
-    position: absolute;
-    margin: 42px 0px 0px 0px;
-}
-
+/*List Of Category*/
 .JACKETS-SUITS{
     position: absolute;
-    margin: 32px 0px 0px 21px;
+    margin: 35px 0px 0px 38px;
     text-decoration: none;
     padding: 4px 0px 4px 0px;
     color: #000000d9;
@@ -74,7 +74,7 @@ ul li{
 
 .BLAZERS{
     position: absolute;
-    margin: 84px 0px 0px 21px;
+    margin: 62px 0px 0px 38px;
     text-decoration: none;
     padding: 4px 0px 4px 0px;
     color: #000000d9;
@@ -82,7 +82,7 @@ ul li{
 
 .KNITWEAR{
     position: absolute;
-    margin: 112px 0px 0px 21px;
+    margin: 90px 0px 0px 38px;
     text-decoration: none;
     padding: 4px 0px 4px 0px;
     color: #000000d9;
@@ -90,7 +90,7 @@ ul li{
 
 .DRESSES{
     position: absolute;
-    margin: 61px 0px 0px 21px;
+    margin: 119px 0px 0px 38px;
     text-decoration: none;
     padding: 4px 0px 4px 0px;
     color: #000000d9;
@@ -98,7 +98,7 @@ ul li{
 
 .JUMPSUITS{
     position: absolute;
-    margin: 142px 0px 0px 21px;
+    margin: 148px 0px 0px 38px;
     text-decoration: none;
     padding: 4px 0px 4px 0px;
     color: #000000d9;
@@ -106,7 +106,7 @@ ul li{
 
 .TOPS{
     position: absolute;
-    margin: 171px 0px 0px 21px;
+    margin: 178px 0px 0px 38px;
     text-decoration: none;
     padding: 4px 0px 4px 0px;
     color: #000000d9;
@@ -114,7 +114,7 @@ ul li{
 
 .T-SHIRTS{
     position: absolute;
-    margin: 198px 0px 0px 21px;
+    margin: 207px 0px 0px 38px;
     text-decoration: none;
     padding: 4px 0px 4px 0px;
     color: #000000d9;
@@ -122,7 +122,7 @@ ul li{
 
 .TROUSERS{
     position: absolute;
-    margin: 225px 0px 0px 21px;
+    margin: 235px 0px 0px 38px;
     text-decoration: none;
     padding: 4px 0px 4px 0px;
     color: #000000d9;
@@ -130,7 +130,7 @@ ul li{
 
 .JEANS{
     position: absolute;
-    margin: 253px 0px 0px 21px;
+    margin: 262px 0px 0px 38px;
     text-decoration: none;
     padding: 4px 0px 4px 0px;
     color: #000000d9;
@@ -138,7 +138,7 @@ ul li{
 
 .SKIRTS{
     position: absolute;
-    margin: 280px 0px 0px 21px;
+    margin: 288px 0px 0px 38px;
     text-decoration: none;
     padding: 4px 0px 4px 0px;
     color: #000000d9;
@@ -146,7 +146,7 @@ ul li{
 
 .SWEATSHIRTS{
     position: absolute;
-    margin: 304px 0px 0px 21px;
+    margin: 314px 0px 0px 38px;
     text-decoration: none;
     padding: 4px 0px 4px 0px;
     color: #000000d9;
@@ -199,11 +199,17 @@ footer{
     margin: 41px 0px 0px 277px;
 }
 
-/*
-::-webkit-scrollbar{
-    background: black;
+
+::-webkit-scrollbar {
+    width:10px;
+    height: 10px;
+    background: rgba(63, 63, 63, 0.205);
 }
-*/
+
+::-webkit-scrollbar-thumb {
+    border-radius: 9px;
+    background: #47474796;
+    }
 
 #Vestido-01{
     width: 250px;
@@ -214,7 +220,7 @@ footer{
     background-size: cover;
     border-radius: 5px;
     margin: 42px 0px 0px 103px;
-    box-shadow: 0px 40px 33px -29px #000000ad;
+    box-shadow: 0px 40px 33px -29px #0000007a;
 }
 
 #Vestido-02{
@@ -226,7 +232,7 @@ footer{
     background-size: cover;
     border-radius: 5px;
     margin: 42px 0px 0px 62px;
-    box-shadow: 0px 40px 33px -29px #000000ad;
+    box-shadow: 0px 40px 33px -29px #0000007a;
 }
 
 
@@ -239,7 +245,7 @@ footer{
     background-size: cover;
     border-radius: 5px;
     margin: 42px 0px 0px 80px;
-    box-shadow: 0px 40px 33px -29px #000000ad;
+    box-shadow: 0px 40px 33px -29px #0000007a;
 }
 
 .roupa-01{
@@ -399,16 +405,27 @@ footer{
 }
 
 #top{
-    font-family: 'Ubuntu Mono', monospace;
-    text-align: center;
-    background: white;
-    position: absolute;
-    border-style: none;
-    margin: 1311px 0px 0px 500px;
+    width: 33px;
+    height: 30px;
+    margin: 1275px 0px 0px 500px;
     padding: 10px;
     cursor: pointer;
+    position: absolute;
     outline: none;
-    list-style: none;
-    color: black;
-    text-decoration: none;
+    background: url(./image/Volta.svg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: transform 1s;
+    transform: translateX(0) scale(0.5);
+}
+
+#top:hover,
+#top:focus {
+  background: url(./image/Volta.svg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  transform: translateX(10px) scale(1.2);
+  
 }
