@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: url(https://images.unsplash.com/photo-1445205170230-053b83016050?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=751&q=80);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: 1818px;
+}
+
+.block{
+    width: 283px;
+    height: 393px;
+    margin: 84px 0px 0px 500px;
+    position: absolute;
+    border-radius: 5px;
+    background: #00000096;
+}
+
+#first_title{
+    position: absolute;
+    margin: 100px 0px 0px 600px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+#email{
+    width: 209px;
+    height: 22px;
+    padding: 2px;
+    border-radius: 4px;
+    border-style: none;
+    position: absolute;
+    margin: 181px 0px 0px 539px;
+}
+
+#password{
+    width: 209px;
+    height: 22px;
+    padding: 2px;
+    border-radius: 4px;
+    border-style: none;
+    position: absolute;
+    margin: 242px 0px 0px 539px
+}
+
+#button{
+    width: 100px;
+    height: 20px;
+    cursor: pointer;
+    border-style: none;
+    border-radius: 4px;
+    position: absolute;
+    margin: 336px 0px 0px 590px;
+    padding: 4px 0px 22px 0px;
+}
+
+#checkbox{
+    position: absolute;
+    margin: 293px 0px 0px 541px;
+}
+
+p{
+    position: absolute;
+    color: white;
+    font-size: 12px;
+    margin: 293px 0px 0px 561px;
+    font-family: 'Roboto', sans-serif;
+}
