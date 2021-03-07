@@ -1,0 +1,442 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/*Header*/
+header{
+    width: 100%;
+    height: 519px;
+    background: url(https://images.unsplash.com/photo-1580644228275-2b826dbec5bf?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+/*Menu Inside Header*/
+ul li{
+    display: inline-block;
+    margin: 20px;
+    padding: 10px 0px 0px 137px;
+    list-style: none;
+    color: white; 
+}
+
+/*First Title Inside Header*/
+.First-Title{
+    font-size: 72px;
+    position: absolute;
+    margin: 194px 0px 0px 454px;
+    letter-spacing: 29px;
+    font-style: normal;
+    font-weight: 300;
+}
+
+.Login{
+    width: 41px;
+    height: 40px;
+    position: absolute;
+    margin: 19px 0px 0px 519px;
+    background: url(../icons/menu-01.svg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: transform 1s;
+    transform: translateX(0) scale(0.5);
+}
+
+.Login:hover,
+.Login:focus {
+    background: url(../icons/Menu-02.svg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transform: translateX(10px) scale(1.2);
+}
+/*Categories Inside Of The Section*/
+#categoria {
+    width: 231px;
+    height: 371px;
+    position: absolute;
+    margin: 41px 0px 0px 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+/*Title Of The Category*/
+.title{
+    position: absolute;
+    margin: 0px 0px 0px 38px;
+    letter-spacing: 1px;
+    font-size: 18px;
+    font-weight: 400;
+    color: #000000ad;
+}
+
+/*Icon Of The Category*/
+.icon{
+    width: 30px;
+    height: 20px;
+    background: url(./icons/align-left.svg);
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+/*List Of Category*/
+.JACKETS-SUITS{
+    position: absolute;
+    margin: 35px 0px 0px 38px;
+    text-decoration: none;
+    padding: 4px 0px 4px 0px;
+    color: #000000d9;
+}
+
+.BLAZERS{
+    position: absolute;
+    margin: 62px 0px 0px 38px;
+    text-decoration: none;
+    padding: 4px 0px 4px 0px;
+    color: #000000d9;
+}
+
+.KNITWEAR{
+    position: absolute;
+    margin: 90px 0px 0px 38px;
+    text-decoration: none;
+    padding: 4px 0px 4px 0px;
+    color: #000000d9;
+}
+
+.DRESSES{
+    position: absolute;
+    margin: 119px 0px 0px 38px;
+    text-decoration: none;
+    padding: 4px 0px 4px 0px;
+    color: #000000d9;
+}
+
+.JUMPSUITS{
+    position: absolute;
+    margin: 148px 0px 0px 38px;
+    text-decoration: none;
+    padding: 4px 0px 4px 0px;
+    color: #000000d9;
+}
+
+.TOPS{
+    position: absolute;
+    margin: 178px 0px 0px 38px;
+    text-decoration: none;
+    padding: 4px 0px 4px 0px;
+    color: #000000d9;
+}
+
+.T-SHIRTS{
+    position: absolute;
+    margin: 207px 0px 0px 38px;
+    text-decoration: none;
+    padding: 4px 0px 4px 0px;
+    color: #000000d9;
+}
+
+.TROUSERS{
+    position: absolute;
+    margin: 235px 0px 0px 38px;
+    text-decoration: none;
+    padding: 4px 0px 4px 0px;
+    color: #000000d9;
+}
+
+.JEANS{
+    position: absolute;
+    margin: 262px 0px 0px 38px;
+    text-decoration: none;
+    padding: 4px 0px 4px 0px;
+    color: #000000d9;
+}
+
+.SKIRTS{
+    position: absolute;
+    margin: 288px 0px 0px 38px;
+    text-decoration: none;
+    padding: 4px 0px 4px 0px;
+    color: #000000d9;
+}
+
+.SWEATSHIRTS{
+    position: absolute;
+    margin: 314px 0px 0px 38px;
+    text-decoration: none;
+    padding: 4px 0px 4px 0px;
+    color: #000000d9;
+}
+
+footer{
+    width: 100%;
+    height: 91px;
+    padding: 9px 0px 12px 0px;
+    position: absolute;
+    margin: 675px 0px 0px 0px;
+}
+
+.Instagram{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    margin: 14px 0px 0px 552px;
+    background: url(../icons/instagram.svg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Github{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    margin: 14px 0px 0px 623px;
+    background: url(../icons/github.svg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#Title_Roda_Pé{
+    font-family: 'Ubuntu Mono', monospace;
+    font-size: 19px;
+    margin: 0px 0px 0px 500px;
+    font-style: normal;
+    font-weight: 100;
+}
+
+#Produtos {
+    width: 1055px;
+    height: 607px;
+    display: flex;
+    overflow-y: scroll;
+    position: absolute;
+    margin: 41px 0px 0px 277px;
+}
+
+
+::-webkit-scrollbar {
+    width:10px;
+    height: 10px;
+    background: rgba(63, 63, 63, 0.205);
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 9px;
+    background: #47474796;
+    }
+
+#Vestido-01{
+    width: 250px;
+    height: 371px;
+    background: url(https://images.unsplash.com/photo-1475178626620-a4d074967452?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=333&q=80);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+    margin: 42px 0px 0px 103px;
+    box-shadow: 0px 40px 33px -29px #0000007a;
+}
+
+#Vestido-02{
+    width: 250px;
+    height: 371px;
+    background: url(https://images.unsplash.com/photo-1541099649105-f69ad21f3246?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+    margin: 42px 0px 0px 62px;
+    box-shadow: 0px 40px 33px -29px #0000007a;
+}
+
+
+#Vestido-03{
+    width: 250px;
+    height: 371px;
+    background: url(https://images.unsplash.com/photo-1600717535122-ca0b51c5e914?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+    margin: 42px 0px 0px 80px;
+    box-shadow: 0px 40px 33px -29px #0000007a;
+}
+
+.roupa-01{
+    width: 186px;
+    height: 217px;
+    position: absolute;
+    margin: 491px 0px 0px 103px;
+    background: url(https://images.unsplash.com/photo-1607039233937-86eb0bef557f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=375&q=80);
+    border-radius: 5px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.roupa-02{
+    width: 186px;
+    height: 217px;
+    position: absolute;
+    margin: 491px 0px 0px 340px;
+    background: url(https://images.unsplash.com/photo-1458119516396-015721b6d60a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=352&q=80);
+    border-radius: 5px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.roupa-03{
+    width: 186px;
+    height: 217px;
+    position: absolute;
+    margin: 491px 0px 0px 585px;
+    background: url(https://images.unsplash.com/photo-1516762689617-e1cffcef479d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=354&q=80);
+    border-radius: 5px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.roupa-04{
+    width: 186px;
+    height: 217px;
+    position: absolute;
+    margin: 491px 0px 0px 809px;
+    background: url(https://images.unsplash.com/photo-1587634656083-b48eacbda94d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80);
+    border-radius: 5px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.roupa-05{
+    width: 186px;
+    height: 217px;
+    position: absolute;
+    margin: 758px 0px 0px 103px;
+    background: url(https://images.unsplash.com/photo-1570693256163-769761d90418?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80);
+    border-radius: 5px;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.roupa-06{
+    width: 186px;
+    height: 217px;
+    position: absolute;
+    margin: 758px 0px 0px 340px;
+    background: url(https://images.unsplash.com/photo-1606430679554-ab04fb3a26db?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80);
+    border-radius: 5px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.roupa-07{
+    width: 186px;
+    height: 217px;
+    position: absolute;
+    margin: 758px 0px 0px 585px;
+    background: url(https://images.unsplash.com/photo-1592595293637-8557fa6d3c64?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=333&q=80);
+    border-radius: 5px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.roupa-08{
+    width: 186px;
+    height: 217px;
+    position: absolute;
+    margin: 758px 0px 0px 809px;
+    background: url(https://images.unsplash.com/photo-1541085388148-a30647cab28f?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=500&q=80);
+    border-radius: 5px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.roupa-09{
+    width: 186px;
+    height: 217px;
+    position: absolute;
+    margin: 1027px 0px 0px 103px;
+    background: url(https://images.unsplash.com/photo-1606422360424-41c03967d89a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=755&q=80);
+    border-radius: 5px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.roupa-10{
+    width: 186px;
+    height: 217px;
+    position: absolute;
+    margin: 1027px 0px 0px 340px;
+    background: url(https://images.unsplash.com/photo-1565530386656-74dac69f9bf6?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80);
+    border-radius: 5px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.roupa-11{
+    width: 186px;
+    height: 217px;
+    position: absolute;
+    margin: 1027px 0px 0px 585px;
+    background: url(https://images.unsplash.com/photo-1594528655096-b2f6ca8f0be1?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=401&q=80);
+    border-radius: 5px;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.roupa-12{
+    width: 186px;
+    height: 217px;
+    position: absolute;
+    margin: 1027px 0px 0px 809px;
+    background: url(https://images.unsplash.com/photo-1598816712998-bf480507e037?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80https://images.unsplash.com/photo-1570173548275-32c3f59f7601?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80);
+    border-radius: 5px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#top{
+    width: 33px;
+    height: 30px;
+    margin: 1275px 0px 0px 500px;
+    padding: 10px;
+    cursor: pointer;
+    position: absolute;
+    outline: none;
+    background: url(../icons/Volta.svg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: transform 1s;
+    transform: translateX(0) scale(0.5);
+}
+
+#top:hover,
+#top:focus {
+  background: url(../icons/Volta.svg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  transform: translateX(10px) scale(1.2);
+  
+}
+
