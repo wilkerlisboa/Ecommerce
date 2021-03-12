@@ -179,7 +179,7 @@ footer{
     height: 91px;
     padding: 9px 0px 12px 0px;
     position: absolute;
-    margin: 675px 0px 0px 0px;
+    margin: 1339px 0px 0px 0px;
 }
 
 .Instagram{
@@ -213,12 +213,11 @@ footer{
 }
 
 #Produtos {
-    width: 1055px;
+    width: 100%;
     height: 607px;
     display: flex;
-    overflow-y: scroll;
     position: absolute;
-    margin: 41px 0px 0px 277px;
+    margin: 0px 0px 0px 0px;
 }
 
 
@@ -241,7 +240,7 @@ footer{
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 5px;
-    margin: 42px 0px 0px 103px;
+    margin: 42px 0px 0px 71px;
     box-shadow: 0px 40px 33px -29px #0000007a;
 }
 
@@ -270,11 +269,23 @@ footer{
     box-shadow: 0px 40px 33px -29px #0000007a;
 }
 
+#Vestido-04{
+    width: 250px;
+    height: 371px;
+    background: url(https://images.unsplash.com/photo-1543508282-6319a3e2621f?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=358&q=80);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+    margin: 42px 0px 0px 80px;
+    box-shadow: 0px 40px 33px -29px #0000007a;
+}
+
 .roupa-01{
     width: 186px;
     height: 217px;
     position: absolute;
-    margin: 491px 0px 0px 103px;
+    margin: 491px 0px 0px 71px;
     background: url(https://images.unsplash.com/photo-1534653299134-96a171b61581?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=582&q=80);
     border-radius: 5px;
     background-position: center center;
@@ -286,7 +297,7 @@ footer{
     width: 186px;
     height: 217px;
     position: absolute;
-    margin: 491px 0px 0px 340px;
+    margin: 491px 0px 0px 336px;
     background: url(https://images.unsplash.com/photo-1516478177764-9fe5bd7e9717?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80);
     border-radius: 5px;
     background-position: center center;
@@ -306,11 +317,23 @@ footer{
     background-size: cover;
 }
 
+.roupa-03-1{
+    width: 186px;
+    height: 217px;
+    position: absolute;
+    margin: 491px 0px 0px 1107px;
+    background: url(https://images.unsplash.com/photo-1549298916-b41d501d3772?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=700&q=80);
+    border-radius: 5px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .roupa-04{
     width: 186px;
     height: 217px;
     position: absolute;
-    margin: 491px 0px 0px 809px;
+    margin: 491px 0px 0px 847px;
     background: url(https://images.unsplash.com/photo-1515555230216-82228b88ea98?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=626&q=80);
     border-radius: 5px;
     background-position: center center;
