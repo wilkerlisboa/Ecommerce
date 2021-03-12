@@ -113,18 +113,20 @@ footer{
     margin: 0px 0px 0px 0px;
 }
 
-
+/*Scroll*/
 ::-webkit-scrollbar {
     width:10px;
     height: 10px;
     background: rgba(63, 63, 63, 0.205);
 }
 
+/*Scroll*/
 ::-webkit-scrollbar-thumb {
     border-radius: 9px;
     background: #47474796;
-    }
+}
 
+/*Vestidos */
 #Vestido-01{
     width: 250px;
     height: 371px;
