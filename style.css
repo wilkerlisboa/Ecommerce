@@ -63,95 +63,7 @@ ul li{
     background-repeat: no-repeat;
 }
 
-/*List Of Category*/
-.JACKETS-SUITS{
-    position: absolute;
-    margin: 35px 0px 0px 38px;
-    text-decoration: none;
-    padding: 4px 0px 4px 0px;
-    color: #000000d9;
-}
-
-.BLAZERS{
-    position: absolute;
-    margin: 62px 0px 0px 38px;
-    text-decoration: none;
-    padding: 4px 0px 4px 0px;
-    color: #000000d9;
-}
-
-.KNITWEAR{
-    position: absolute;
-    margin: 90px 0px 0px 38px;
-    text-decoration: none;
-    padding: 4px 0px 4px 0px;
-    color: #000000d9;
-}
-
-.DRESSES{
-    position: absolute;
-    margin: 119px 0px 0px 38px;
-    text-decoration: none;
-    padding: 4px 0px 4px 0px;
-    color: #000000d9;
-}
-
-.JUMPSUITS{
-    position: absolute;
-    margin: 148px 0px 0px 38px;
-    text-decoration: none;
-    padding: 4px 0px 4px 0px;
-    color: #000000d9;
-}
-
-.TOPS{
-    position: absolute;
-    margin: 178px 0px 0px 38px;
-    text-decoration: none;
-    padding: 4px 0px 4px 0px;
-    color: #000000d9;
-}
-
-.T-SHIRTS{
-    position: absolute;
-    margin: 207px 0px 0px 38px;
-    text-decoration: none;
-    padding: 4px 0px 4px 0px;
-    color: #000000d9;
-}
-
-.TROUSERS{
-    position: absolute;
-    margin: 235px 0px 0px 38px;
-    text-decoration: none;
-    padding: 4px 0px 4px 0px;
-    color: #000000d9;
-}
-
-.JEANS{
-    position: absolute;
-    margin: 262px 0px 0px 38px;
-    text-decoration: none;
-    padding: 4px 0px 4px 0px;
-    color: #000000d9;
-}
-
-.SKIRTS{
-    position: absolute;
-    margin: 288px 0px 0px 38px;
-    text-decoration: none;
-    padding: 4px 0px 4px 0px;
-    color: #000000d9;
-}
-
-.SWEATSHIRTS{
-    position: absolute;
-    margin: 314px 0px 0px 38px;
-    text-decoration: none;
-    padding: 4px 0px 4px 0px;
-    color: #000000d9;
-}
-
+/*Roda-Pe*/
 footer{
     width: 100%;
     height: 91px;
@@ -159,7 +71,7 @@ footer{
     position: absolute;
     margin: 1340px 0px 0px 0px;
 }
-
+/*Instagram*/
 .Instagram{
     width: 40px;
     height: 40px;
@@ -171,6 +83,7 @@ footer{
     background-size: cover;
 }
 
+/*GitHub*/
 .Github{
     width: 40px;
     height: 40px;
@@ -182,6 +95,7 @@ footer{
     background-size: cover;
 }
 
+/*Title - roda -pe*/
 #Title_Roda_Pé{
     font-family: 'Ubuntu Mono', monospace;
     font-size: 19px;
@@ -190,6 +104,7 @@ footer{
     font-weight: 100;
 }
 
+/*PRODUTOS*/
 #Produtos {
     width: 100%;
     height: 607px;
