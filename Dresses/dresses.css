@@ -77,7 +77,7 @@ footer{
     height: 40px;
     position: absolute;
     margin: 14px 0px 0px 592px;
-    background: url(./icons/instagram.svg);
+    background: url(../icons/instagram.svg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -89,7 +89,7 @@ footer{
     height: 40px;
     position: absolute;
     margin: 14px 0px 0px 651px;
-    background: url(./icons/github.svg);
+    background: url(../icons/github.svg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
