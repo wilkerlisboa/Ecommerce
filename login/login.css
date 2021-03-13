@@ -10,6 +10,7 @@ body{
     background-size: 1818px;
 }
 
+/*Block*/
 .block{
     width: 283px;
     height: 393px;
@@ -19,6 +20,7 @@ body{
     background: #00000096;
 }
 
+/*First Title*/
 #first_title{
     position: absolute;
     margin: 100px 0px 0px 600px;
@@ -26,6 +28,7 @@ body{
     color: white;
 }
 
+/*Email*/
 #email{
     width: 209px;
     height: 22px;
@@ -36,6 +39,7 @@ body{
     margin: 181px 0px 0px 539px;
 }
 
+/*Password*/
 #password{
     width: 209px;
     height: 22px;
@@ -46,6 +50,7 @@ body{
     margin: 242px 0px 0px 539px
 }
 
+/*Button*/
 #button{
     width: 100px;
     height: 20px;
@@ -57,11 +62,13 @@ body{
     padding: 4px 0px 22px 0px;
 }
 
+/*Remember mim*/
 #checkbox{
     position: absolute;
     margin: 293px 0px 0px 541px;
 }
 
+/*Remember mim*/
 p{
     position: absolute;
     color: white;
