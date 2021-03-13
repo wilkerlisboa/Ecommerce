@@ -4,7 +4,7 @@
 }
 
 body{
-    background: url(https://images.unsplash.com/photo-1445205170230-053b83016050?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=751&q=80);
+    background: url(https://images.unsplash.com/photo-1503691096858-1856b5b151a4?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=889&q=80);
     background-position: top center;
     background-repeat: no-repeat;
     background-size: 1818px;
@@ -31,35 +31,35 @@ body{
 /*Email*/
 #email{
     width: 209px;
-    height: 22px;
-    padding: 2px;
     border-radius: 4px;
     border-style: none;
     position: absolute;
     margin: 181px 0px 0px 539px;
+    padding: 10px 0px 10px 0px;
 }
 
 /*Password*/
 #password{
     width: 209px;
-    height: 22px;
-    padding: 2px;
     border-radius: 4px;
     border-style: none;
     position: absolute;
-    margin: 242px 0px 0px 539px
+    margin: 242px 0px 0px 539px;
+    padding: 10px 0px 10px 0px;
 }
 
 /*Button*/
 #button{
-    width: 100px;
-    height: 20px;
+    width: 209px;
+    height: 22px;
     cursor: pointer;
     border-style: none;
     border-radius: 4px;
     position: absolute;
-    margin: 336px 0px 0px 590px;
-    padding: 4px 0px 22px 0px;
+    margin: 336px 0px 0px 539px;
+    padding: 7px 0px 24px 0px;
+    font-family: 'Roboto';
+    font-weight: bolder;
 }
 
 /*Remember mim*/
