@@ -84,33 +84,35 @@ footer{
     margin: 1330px 0px 0px 0px;
 }
 
-
+/*Instagram*/
 .Instagram{
     width: 40px;
     height: 40px;
     position: absolute;
-    margin: 14px 0px 0px 552px;
+    margin: 14px 0px 0px 592px;
     background: url(../icons/instagram.svg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
+/*GitHub*/
 .Github{
     width: 40px;
     height: 40px;
     position: absolute;
-    margin: 14px 0px 0px 623px;
+    margin: 14px 0px 0px 651px;
     background: url(../icons/github.svg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
+/*Title - roda -pe*/
 #Title_Roda_Pé{
     font-family: 'Ubuntu Mono', monospace;
     font-size: 19px;
-    margin: 0px 0px 0px 500px;
+    margin: 0px 0px 0px 543px;
     font-style: normal;
     font-weight: 100;
 }
@@ -368,7 +370,7 @@ footer{
 #top{
     width: 33px;
     height: 30px;
-    margin: 1275px 0px 0px 500px;
+    margin: 1275px 0px 0px 616px;
     padding: 10px;
     cursor: pointer;
     position: absolute;
