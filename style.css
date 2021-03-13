@@ -288,7 +288,7 @@ footer{
     width: 186px;
     height: 217px;
     position: absolute;
-    margin: 758px 0px 0px 1108px;
+    margin: 758px 0px 0px 1107px;
     background: url(https://images.unsplash.com/photo-1548454433-4a1812514573?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=337&q=80);
     border-radius: 5px;
     background-position: center center;
@@ -300,7 +300,7 @@ footer{
     width: 186px;
     height: 217px;
     position: absolute;
-    margin: 1027px 0px 0px 585px;
+    margin: 1027px 0px 0px 71px;
     background: url(https://images.unsplash.com/photo-1550621815-a913819f8ca6?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80);
     border-radius: 5px;
     background-position: center center;
@@ -312,7 +312,7 @@ footer{
     width: 186px;
     height: 217px;
     position: absolute;
-    margin: 1027px 0px 0px 103px;
+    margin: 1027px 0px 0px 341px;
     background: url(https://images.unsplash.com/photo-1560996024-257c29ecfb9c?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=334&q=80);
     border-radius: 5px;
     background-position: center center;
@@ -324,13 +324,38 @@ footer{
     width: 186px;
     height: 217px;
     position: absolute;
-    margin: 1027px 0px 0px 809px;
+    margin: 1027px 0px 0px 597px;
     background: url(https://images.unsplash.com/photo-1570173548275-32c3f59f7601?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80);
     border-radius: 5px;
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.roupa-14{
+    width: 186px;
+    height: 217px;
+    position: absolute;
+    margin: 1027px 0px 0px 850px;
+    background: url(https://images.unsplash.com/photo-1496747611176-843222e1e57c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=752&q=80);
+    border-radius: 5px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.roupa-15{
+    width: 186px;
+    height: 217px;
+    position: absolute;
+    margin: 1027px 0px 0px 1107px;
+    background: url(https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80);
+    border-radius: 5px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 
 #top{
     width: 33px;
