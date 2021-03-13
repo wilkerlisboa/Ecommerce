@@ -56,14 +56,6 @@ ul li{
     background-size: cover;
     transform: translateX(10px) scale(1.2);
 }
-/*Categories Inside Of The Section*/
-#categoria {
-    width: 231px;
-    height: 371px;
-    position: absolute;
-    margin: 41px 0px 0px 20px;
-    font-family: 'Roboto', sans-serif;
-}
 
 /*Title Of The Category*/
 .title{
@@ -84,102 +76,14 @@ ul li{
     background-repeat: no-repeat;
 }
 
-/*List Of Category*/
-.JACKETS-SUITS{
-    position: absolute;
-    margin: 35px 0px 0px 38px;
-    text-decoration: none;
-    padding: 4px 0px 4px 0px;
-    color: #000000d9;
-}
-
-.BLAZERS{
-    position: absolute;
-    margin: 62px 0px 0px 38px;
-    text-decoration: none;
-    padding: 4px 0px 4px 0px;
-    color: #000000d9;
-}
-
-.KNITWEAR{
-    position: absolute;
-    margin: 90px 0px 0px 38px;
-    text-decoration: none;
-    padding: 4px 0px 4px 0px;
-    color: #000000d9;
-}
-
-.DRESSES{
-    position: absolute;
-    margin: 119px 0px 0px 38px;
-    text-decoration: none;
-    padding: 4px 0px 4px 0px;
-    color: #000000d9;
-}
-
-.JUMPSUITS{
-    position: absolute;
-    margin: 148px 0px 0px 38px;
-    text-decoration: none;
-    padding: 4px 0px 4px 0px;
-    color: #000000d9;
-}
-
-.TOPS{
-    position: absolute;
-    margin: 178px 0px 0px 38px;
-    text-decoration: none;
-    padding: 4px 0px 4px 0px;
-    color: #000000d9;
-}
-
-.T-SHIRTS{
-    position: absolute;
-    margin: 207px 0px 0px 38px;
-    text-decoration: none;
-    padding: 4px 0px 4px 0px;
-    color: #000000d9;
-}
-
-.TROUSERS{
-    position: absolute;
-    margin: 235px 0px 0px 38px;
-    text-decoration: none;
-    padding: 4px 0px 4px 0px;
-    color: #000000d9;
-}
-
-.JEANS{
-    position: absolute;
-    margin: 262px 0px 0px 38px;
-    text-decoration: none;
-    padding: 4px 0px 4px 0px;
-    color: #000000d9;
-}
-
-.SKIRTS{
-    position: absolute;
-    margin: 288px 0px 0px 38px;
-    text-decoration: none;
-    padding: 4px 0px 4px 0px;
-    color: #000000d9;
-}
-
-.SWEATSHIRTS{
-    position: absolute;
-    margin: 314px 0px 0px 38px;
-    text-decoration: none;
-    padding: 4px 0px 4px 0px;
-    color: #000000d9;
-}
-
 footer{
     width: 100%;
     height: 91px;
     padding: 9px 0px 12px 0px;
     position: absolute;
-    margin: 675px 0px 0px 0px;
+    margin: 1330px 0px 0px 0px;
 }
+
 
 .Instagram{
     width: 40px;
@@ -212,12 +116,11 @@ footer{
 }
 
 #Produtos {
-    width: 1055px;
+    width: 100%;
     height: 607px;
     display: flex;
-    overflow-y: scroll;
     position: absolute;
-    margin: 41px 0px 0px 277px;
+    margin: 0px 0px 0px 0px;
 }
 
 
@@ -240,7 +143,7 @@ footer{
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 5px;
-    margin: 42px 0px 0px 103px;
+    margin: 42px 0px 0px 71px;
     box-shadow: 0px 40px 33px -29px #0000007a;
 }
 
@@ -269,11 +172,23 @@ footer{
     box-shadow: 0px 40px 33px -29px #0000007a;
 }
 
+#Vestido-04{
+    width: 250px;
+    height: 371px;
+    background: url(https://images.unsplash.com/photo-1602370240543-8ca9e9f0e28f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=335&q=80);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+    margin: 42px 0px 0px 80px;
+    box-shadow: 0px 40px 33px -29px #0000007a;
+}
+
 .roupa-01{
     width: 186px;
     height: 217px;
     position: absolute;
-    margin: 491px 0px 0px 103px;
+    margin: 491px 0px 0px 71px;
     background: url(https://images.unsplash.com/photo-1607039233937-86eb0bef557f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=375&q=80);
     border-radius: 5px;
     background-position: center center;
@@ -297,7 +212,7 @@ footer{
     width: 186px;
     height: 217px;
     position: absolute;
-    margin: 491px 0px 0px 585px;
+    margin: 491px 0px 0px 595px;
     background: url(https://images.unsplash.com/photo-1516762689617-e1cffcef479d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=354&q=80);
     border-radius: 5px;
     background-position: center center;
@@ -309,7 +224,7 @@ footer{
     width: 186px;
     height: 217px;
     position: absolute;
-    margin: 491px 0px 0px 809px;
+    margin: 491px 0px 0px 853px;
     background: url(https://images.unsplash.com/photo-1587634656083-b48eacbda94d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80);
     border-radius: 5px;
     background-position: center center;
@@ -321,7 +236,7 @@ footer{
     width: 186px;
     height: 217px;
     position: absolute;
-    margin: 758px 0px 0px 103px;
+    margin: 491px 0px 0px 1107px;
     background: url(https://images.unsplash.com/photo-1570693256163-769761d90418?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80);
     border-radius: 5px;
     background-position: center bottom;
@@ -333,7 +248,7 @@ footer{
     width: 186px;
     height: 217px;
     position: absolute;
-    margin: 758px 0px 0px 340px;
+    margin: 758px 0px 0px 71px;
     background: url(https://images.unsplash.com/photo-1606430679554-ab04fb3a26db?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80);
     border-radius: 5px;
     background-position: center center;
@@ -345,7 +260,7 @@ footer{
     width: 186px;
     height: 217px;
     position: absolute;
-    margin: 758px 0px 0px 585px;
+    margin: 758px 0px 0px 341px;
     background: url(https://images.unsplash.com/photo-1592595293637-8557fa6d3c64?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=333&q=80);
     border-radius: 5px;
     background-position: center center;
@@ -357,7 +272,7 @@ footer{
     width: 186px;
     height: 217px;
     position: absolute;
-    margin: 758px 0px 0px 809px;
+    margin: 758px 0px 0px 595px;
     background: url(https://images.unsplash.com/photo-1541085388148-a30647cab28f?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=500&q=80);
     border-radius: 5px;
     background-position: center center;
@@ -369,7 +284,7 @@ footer{
     width: 186px;
     height: 217px;
     position: absolute;
-    margin: 1027px 0px 0px 103px;
+    margin: 758px 0px 0px 853px;
     background: url(https://images.unsplash.com/photo-1606422360424-41c03967d89a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=755&q=80);
     border-radius: 5px;
     background-position: center center;
@@ -381,7 +296,7 @@ footer{
     width: 186px;
     height: 217px;
     position: absolute;
-    margin: 1027px 0px 0px 340px;
+    margin: 758px 0px 0px 1107px;
     background: url(https://images.unsplash.com/photo-1565530386656-74dac69f9bf6?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80);
     border-radius: 5px;
     background-position: center center;
@@ -393,7 +308,7 @@ footer{
     width: 186px;
     height: 217px;
     position: absolute;
-    margin: 1027px 0px 0px 585px;
+    margin: 1027px 0px 0px 71px;
     background: url(https://images.unsplash.com/photo-1594528655096-b2f6ca8f0be1?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=401&q=80);
     border-radius: 5px;
     background-position: center bottom;
@@ -406,8 +321,44 @@ footer{
     width: 186px;
     height: 217px;
     position: absolute;
-    margin: 1027px 0px 0px 809px;
+    margin: 1027px 0px 0px 341px;
     background: url(https://images.unsplash.com/photo-1598816712998-bf480507e037?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80https://images.unsplash.com/photo-1570173548275-32c3f59f7601?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80);
+    border-radius: 5px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.roupa-13{
+    width: 186px;
+    height: 217px;
+    position: absolute;
+    margin: 1027px 0px 0px 595px;
+    background: url(https://images.unsplash.com/photo-1580420876816-ac9e4c3e1406?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80);
+    border-radius: 5px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.roupa-14{
+    width: 186px;
+    height: 217px;
+    position: absolute;
+    margin: 1027px 0px 0px 853px;
+    background: url(https://images.unsplash.com/photo-1604510703328-320724c71077?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80);
+    border-radius: 5px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.roupa-15{
+    width: 186px;
+    height: 217px;
+    position: absolute;
+    margin: 1027px 0px 0px 1107px;
+    background: url(https://images.unsplash.com/photo-1566612088151-a477d6c17708?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=334&q=80);
     border-radius: 5px;
     background-position: center center;
     background-repeat: no-repeat;
