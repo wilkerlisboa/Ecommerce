@@ -183,35 +183,39 @@ footer{
     margin: 1339px 0px 0px 0px;
 }
 
+/*Instagram*/
 .Instagram{
     width: 40px;
     height: 40px;
     position: absolute;
-    margin: 14px 0px 0px 552px;
+    margin: 14px 0px 0px 592px;
     background: url(../icons/instagram.svg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
+/*GitHub*/
 .Github{
     width: 40px;
     height: 40px;
     position: absolute;
-    margin: 14px 0px 0px 623px;
+    margin: 14px 0px 0px 651px;
     background: url(../icons/github.svg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
+/*Title - roda -pe*/
 #Title_Roda_Pé{
     font-family: 'Ubuntu Mono', monospace;
     font-size: 19px;
-    margin: 0px 0px 0px 500px;
+    margin: 0px 0px 0px 543px;
     font-style: normal;
     font-weight: 100;
 }
+
 
 #Produtos {
     width: 100%;
@@ -273,7 +277,7 @@ footer{
 #Vestido-04{
     width: 250px;
     height: 371px;
-    background: url(https://images.unsplash.com/photo-1543508282-6319a3e2621f?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=358&q=80);
+    background: url(https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=343&q=80);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -477,7 +481,7 @@ footer{
 #top{
     width: 33px;
     height: 30px;
-    margin: 1275px 0px 0px 500px;
+    margin: 1275px 0px 0px 616px;
     padding: 10px;
     cursor: pointer;
     position: absolute;
@@ -497,5 +501,4 @@ footer{
   background-repeat: no-repeat;
   background-size: cover;
   transform: translateX(10px) scale(1.2);
-  
 }
