@@ -135,7 +135,7 @@ footer{
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 5px;
-    margin: 42px 0px 0px 103px;
+    margin: 42px 0px 0px 71px;
     box-shadow: 0px 40px 33px -29px #0000007a;
 }
 
@@ -164,11 +164,23 @@ footer{
     box-shadow: 0px 40px 33px -29px #0000007a;
 }
 
+#Vestido-04{
+    width: 250px;
+    height: 371px;
+    background: url(https://images.unsplash.com/photo-1539008835657-9e8e9680c956?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+    margin: 42px 0px 0px 80px;
+    box-shadow: 0px 40px 33px -29px #0000007a;
+}
+
 .roupa-01{
     width: 186px;
     height: 217px;
     position: absolute;
-    margin: 491px 0px 0px 103px;
+    margin: 491px 0px 0px 71px;
     background: url(https://images.unsplash.com/photo-1614676489559-5ee9f89edf70?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80);
     border-radius: 5px;
     background-position: center center;
@@ -192,7 +204,7 @@ footer{
     width: 186px;
     height: 217px;
     position: absolute;
-    margin: 491px 0px 0px 585px;
+    margin: 491px 0px 0px 597px;
     background: url(https://images.unsplash.com/photo-1596783047904-4000addd05cd?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80);
     border-radius: 5px;
     background-position: center center;
@@ -204,7 +216,7 @@ footer{
     width: 186px;
     height: 217px;
     position: absolute;
-    margin: 491px 0px 0px 809px;
+    margin: 491px 0px 0px 850px;
     background: url(https://images.unsplash.com/photo-1595868321403-bac51fbdeb97?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=334&q=80s);
     border-radius: 5px;
     background-position: center center;
@@ -216,7 +228,7 @@ footer{
     width: 186px;
     height: 217px;
     position: absolute;
-    margin: 758px 0px 0px 103px;
+    margin: 491px 0px 0px 1107px;
     background: url(https://images.unsplash.com/photo-1589451359791-f9c33af92239?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=618&q=80);
     border-radius: 5px;
     background-position: center center;
@@ -228,7 +240,7 @@ footer{
     width: 186px;
     height: 217px;
     position: absolute;
-    margin: 758px 0px 0px 340px;
+    margin: 758px 0px 0px 71px;
     background: url(https://images.unsplash.com/photo-1587301427108-933c0d3ce321?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=334&q=80);
     border-radius: 5px;
     background-position: center center;
@@ -240,7 +252,7 @@ footer{
     width: 186px;
     height: 217px;
     position: absolute;
-    margin: 758px 0px 0px 585px;
+    margin: 758px 0px 0px 341px;
     background: url(https://images.unsplash.com/photo-1575818302670-7e90c19c9082?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80);
     border-radius: 5px;
     background-position: center center;
@@ -252,7 +264,7 @@ footer{
     width: 186px;
     height: 217px;
     position: absolute;
-    margin: 758px 0px 0px 809px;
+    margin: 758px 0px 0px 597px;
     background: url(https://images.unsplash.com/photo-1573638687899-e2758e4a373f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=332&q=80);
     border-radius: 5px;
     background-position: center center;
@@ -264,7 +276,7 @@ footer{
     width: 186px;
     height: 217px;
     position: absolute;
-    margin: 1027px 0px 0px 103px;
+    margin: 758px 0px 0px 850px;
     background: url(https://images.unsplash.com/photo-1592669241067-2f92a1048085?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80);
     border-radius: 5px;
     background-position: center center;
@@ -276,7 +288,7 @@ footer{
     width: 186px;
     height: 217px;
     position: absolute;
-    margin: 1027px 0px 0px 340px;
+    margin: 758px 0px 0px 1108px;
     background: url(https://images.unsplash.com/photo-1548454433-4a1812514573?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=337&q=80);
     border-radius: 5px;
     background-position: center center;
