@@ -6,7 +6,7 @@
 /*Header*/
 header{
     width: 100%;
-    height: 519px;
+    height: 298px;
     background: url(https://images.unsplash.com/photo-1571887751457-5cd3309e0038?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=750&q=80);
     background-position: center top;
     background-repeat: no-repeat;
@@ -25,43 +25,50 @@ ul li{
     color: white; 
 }
 
-/*First Title Inside Header*/
-.First-Title{
-    font-size: 72px;
-    position: absolute;
-    margin: 194px 0px 0px 454px;
-    letter-spacing: 29px;
-    font-style: normal;
-    font-weight: 300;
+/*Block of the icons*/
+.block{
+    width: 100%;
+    height: 62px;
+    background: red;
 }
-
-/*Categories Inside Of The Section*/
-#categoria {
-    width: 231px;
-    height: 371px;
-    position: absolute;
-    margin: 41px 0px 0px 20px;
-    font-family: 'Roboto', sans-serif;
-}
-
-/*Title Of The Category*/
-.title{
-    position: absolute;
-    margin: 0px 0px 0px 38px;
-    letter-spacing: 1px;
-    font-size: 18px;
-    font-weight: 400;
-    color: #000000ad;
-}
-
-/*Icon Of The Category*/
+/*Icons Inside of Block*/
 .icon{
-    width: 30px;
-    height: 20px;
-    background: url(./icons/align-left.svg);
-    background-position: center center;
-    background-repeat: no-repeat;
+    width: 38px;
+    height: 38px;
+    position: absolute;
+    background: white;
+    margin: 12px 0px 0px 313px;
 }
+
+/*Icons Inside of Block*/
+.icon-02{
+    width: 38px;
+    height: 38px;
+    position: absolute;
+    background: white;
+    margin: 12px 0px 0px 517px;
+}
+
+/*Icons Inside of Block*/
+.icon-03{
+    width: 38px;
+    height: 38px;
+    position: absolute;
+    background: white;
+    margin: 12px 0px 0px 706px;
+}
+
+/*Title of Icons Inside Block*/
+p{
+    position: absolute;
+    margin: 7px 0px 0px 51px;
+    color: black;
+    font-size: 21px;
+    font-style: normal;
+    font-family: 'Roboto';
+    font-weight: 600;
+}
+
 
 /*Roda-Pe*/
 footer{
@@ -104,14 +111,6 @@ footer{
     font-weight: 100;
 }
 
-/*PRODUTOS*/
-#Produtos {
-    width: 100%;
-    height: 607px;
-    display: flex;
-    position: absolute;
-    margin: 0px 0px 0px 0px;
-}
 
 /*Scroll*/
 ::-webkit-scrollbar {
