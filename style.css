@@ -29,14 +29,14 @@ ul li{
 .block{
     width: 100%;
     height: 62px;
-    background: red;
+    
 }
 /*Icons Inside of Block*/
 .icon{
     width: 38px;
     height: 38px;
     position: absolute;
-    background: white;
+    background: url(./icons/jeans.svg);
     margin: 12px 0px 0px 313px;
 }
 
@@ -45,8 +45,8 @@ ul li{
     width: 38px;
     height: 38px;
     position: absolute;
-    background: white;
-    margin: 12px 0px 0px 517px;
+    background: url(./icons/shoes.svg);
+    margin: 12px 0px 0px 574px;
 }
 
 /*Icons Inside of Block*/
@@ -54,9 +54,10 @@ ul li{
     width: 38px;
     height: 38px;
     position: absolute;
-    background: white;
-    margin: 12px 0px 0px 706px;
+    background: url(./icons/vestidos.svg);
+    margin: 12px 0px 0px 822px;
 }
+
 
 /*Title of Icons Inside Block*/
 p{
@@ -67,6 +68,50 @@ p{
     font-style: normal;
     font-family: 'Roboto';
     font-weight: 600;
+}
+
+.Destaque{
+    width: 100%;
+    height: 325px;
+    background: red;
+    display: flex;
+}
+
+#destaque_01{
+    width: 166px;
+    height: 218px;
+    background: white;
+    margin: 50px;
+}
+
+
+#destaque_02{
+    width: 166px;
+    height: 218px;
+    background: white;
+    margin: 50px;
+}
+
+
+#destaque_03{
+    width: 166px;
+    height: 218px;
+    background: white;
+    margin: 50px;
+}
+
+#destaque_04{
+    width: 166px;
+    height: 218px;
+    background: white;
+    margin: 50px;
+}
+
+#destaque_05{
+    width: 166px;
+    height: 218px;
+    background: white;
+    margin: 50px;
 }
 
 
