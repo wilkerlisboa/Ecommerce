@@ -282,7 +282,7 @@ footer{
 ::-webkit-scrollbar {
     width:10px;
     height: 10px;
-    background: rgba(63, 63, 63, 0.205);
+    background: white;
 }
 
 /*Scroll*/
