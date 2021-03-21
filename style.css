@@ -327,6 +327,15 @@ p{
     position: absolute;
 }
 
+/* Line of Footer*/
+.line_footer {
+    width: 880px;
+    height: 1px;
+    position: absolute;
+    margin: 213px 0px 0px 233px;
+    background: #35313194;
+}
+
 /*Roda-Pe*/
 footer{
     width: 100%;
