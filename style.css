@@ -340,46 +340,27 @@ p{
 /*Roda-Pe*/
 footer{
     width: 100%;
-    height: 91px;
+    height: 506px;
     padding: 9px 0px 12px 0px;
     position: absolute;
     margin: 238px 0px 0px 0px;
+    background: blue;
+    display: inline-flex;
 }
 
-
-/*Instagram*/
-.Instagram{
-    width: 40px;
-    height: 40px;
-    position: absolute;
-    margin: 14px 0px 0px 592px;
-    background: url(./icons/instagram.svg);
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover;
+.Top-Cat{
+    width: 273px;
+    height: 312px;
+    background: red;
+    margin: 26px 0px 0px 136px;
 }
 
-/*GitHub*/
-.Github{
-    width: 40px;
-    height: 40px;
-    position: absolute;
-    margin: 14px 0px 0px 651px;
-    background: url(./icons/github.svg);
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-/*Title - roda -pe*/
-#Title_Roda_Pé{
-    font-family: 'Ubuntu Mono', monospace;
-    font-size: 19px;
-    margin: 0px 0px 0px 543px;
+.TOP-CATEGORIA{
+    font-family: 'Roboto';
+    font-size: 30px;
     font-style: normal;
-    font-weight: 100;
+    font-weight: bolder;
 }
-
 
 /*Scroll*/
 ::-webkit-scrollbar {
