@@ -17,12 +17,13 @@ header{
 }
 
 /*Menu Inside Header*/
-ul li{
+ul a h1{
     display: inline-block;
-    margin: 20px;
-    padding: 10px 0px 0px 137px;
+    margin: 26px 0px 0px -46px;
     list-style: none;
-    color: white; 
+    color: white;
+    letter-spacing: 2px;
+    font-size: 17px;
 }
 
 /*Block of the icons*/
@@ -344,6 +345,8 @@ footer{
     position: absolute;
     margin: 238px 0px 0px 0px;
 }
+
+
 /*Instagram*/
 .Instagram{
     width: 40px;
@@ -418,24 +421,15 @@ footer{
   
 }
 
-.Login{
-    width: 41px;
-    height: 40px;
+.Perfil{
+    width: 50px;
+    height: 50px;
     position: absolute;
-    margin: 19px 0px 0px 519px;
-    background: url(./icons/menu-01.svg);
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover;
+    background: white;
+    border-radius: 100%;
+    margin: 10px 0px 0px 529px;
     transition: transform 1s;
     transform: translateX(0) scale(0.5);
 }
 
-.Login:hover,
-.Login:focus {
-    background: url(./icons/Menu-02.svg);
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    transform: translateX(10px) scale(1.2);
-}
+
