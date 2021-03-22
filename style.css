@@ -340,11 +340,10 @@ p{
 /*Roda-Pe*/
 footer{
     width: 100%;
-    height: 506px;
+    height: 374px;
     padding: 9px 0px 12px 0px;
     position: absolute;
     margin: 238px 0px 0px 0px;
-    background: blue;
     display: inline-flex;
 }
 
@@ -352,7 +351,6 @@ footer{
 .Top-Cat{
     width: 273px;
     height: 182px;
-    background: red;
     margin: 26px 0px 0px 136px;
 }
 
@@ -361,21 +359,22 @@ footer{
     font-size: 30px;
     font-style: normal;
     font-weight: bolder;
+    color: #413d3d91;
 }
 
 .sub-tops{
     position: absolute;
-    color: black;
     font-family: 'Roboto';
     font-size: 19px;
     font-weight: 500;
     margin: 10px 0px 0px 0px;
     padding: 10px 0px 10px 0px;
+    color: #413d3d91;
 }
 
 .sub-tops-01{
     position: absolute;
-    color: black;
+    color: #413d3d91;
     font-family: 'Roboto';
     font-size: 19px;
     font-weight: 500;
@@ -386,7 +385,7 @@ footer{
 
 .sub-tops-02{
     position: absolute;
-    color: black;
+    color: #413d3d91;
     font-family: 'Roboto';
     font-size: 19px;
     font-weight: 500;
@@ -413,7 +412,7 @@ footer{
     width: 274px;
     height: 20px;
     position: absolute;
-    margin: 342px 0px 0px 135px;
+    margin: 323px 0px 0px 135px;
     font-size: 18px;
     font-style: normal;
     font-family: 'Roboto';
@@ -421,7 +420,12 @@ footer{
     background: #ff9900;
     color: white;
     outline: none;
-    border-style: none
+    border-style: none;
+}
+
+.Title_Button{
+    position: absolute;
+    margin: 285px 0px 0px 138px;
 }
 
 #top{
