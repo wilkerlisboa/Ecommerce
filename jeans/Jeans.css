@@ -76,14 +76,61 @@ ul li{
     background-repeat: no-repeat;
 }
 
+/*Roda-Pe*/
 footer{
     width: 100%;
-    height: 91px;
+    height: 374px;
     padding: 9px 0px 12px 0px;
     position: absolute;
-    margin: 1330px 0px 0px 0px;
+    margin: 238px 0px 0px 0px;
+    display: inline-flex;
 }
 
+/*SECTION CATEGORI*/
+.Top-Cat{
+    width: 273px;
+    height: 182px;
+    margin: 26px 0px 0px 136px;
+}
+
+.TOP-CATEGORIA{
+    font-family: 'Roboto';
+    font-size: 30px;
+    font-style: normal;
+    font-weight: bolder;
+    color: #413d3d91;
+}
+
+.sub-tops{
+    position: absolute;
+    font-family: 'Roboto';
+    font-size: 19px;
+    font-weight: 500;
+    margin: 10px 0px 0px 0px;
+    padding: 10px 0px 10px 0px;
+    color: #413d3d91;
+}
+
+.sub-tops-01{
+    position: absolute;
+    color: #413d3d91;
+    font-family: 'Roboto';
+    font-size: 19px;
+    font-weight: 500;
+    margin: 19px 0px 0px 0px;
+    padding: 10px 0px 10px 0px;
+}
+
+
+.sub-tops-02{
+    position: absolute;
+    color: #413d3d91;
+    font-family: 'Roboto';
+    font-size: 19px;
+    font-weight: 500;
+    margin: 29px 0px 0px 0px;
+    padding: 10px 0px 10px 0px;
+}
 /*Instagram*/
 .Instagram{
     width: 40px;
