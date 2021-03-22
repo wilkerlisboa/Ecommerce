@@ -408,6 +408,21 @@ footer{
     background: #47474796;
 }
 
+.button{
+    display: inline-block;
+    width: 274px;
+    height: 20px;
+    position: absolute;
+    margin: 342px 0px 0px 135px;
+    font-size: 18px;
+    font-style: normal;
+    font-family: 'Roboto';
+    padding: 10px 0px 27px 0px;
+    background: #ff9900;
+    color: white;
+    outline: none;
+    border-style: none
+}
 
 #top{
     width: 33px;
