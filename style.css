@@ -393,20 +393,6 @@ footer{
     padding: 10px 0px 10px 0px;
 }
 
-
-/*Scroll*/
-::-webkit-scrollbar {
-    width:10px;
-    height: 10px;
-    background: white;
-}
-
-/*Scroll*/
-::-webkit-scrollbar-thumb {
-    border-radius: 9px;
-    background: #47474796;
-}
-
 .button{
     display: inline-block;
     width: 274px;
@@ -426,6 +412,7 @@ footer{
 .Title_Button{
     position: absolute;
     margin: 285px 0px 0px 138px;
+    color: #33323296;
 }
 
 #top{
@@ -463,4 +450,17 @@ footer{
     margin: 10px 0px 0px 529px;
     transition: transform 1s;
     transform: translateX(0) scale(0.5);
+}
+
+/*Scroll*/
+::-webkit-scrollbar {
+    width:10px;
+    height: 10px;
+    background: white;
+}
+
+/*Scroll*/
+::-webkit-scrollbar-thumb {
+    border-radius: 9px;
+    background: #47474796;
 }
