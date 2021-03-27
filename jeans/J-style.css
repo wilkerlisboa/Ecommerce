@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/*Header*/
+header{
+    width: 100%;
+    height:100px;
+    background: red;
+}
+
+/*Circle Inside Header */
+.Perfil{
+    width: 56px;
+    height: 56px;
+    background: blue;
+    border-radius: 100%;
+    position: absolute;
+    margin: 20px 0px 0px 76px;
+}
+
+/*Title Inside Header*/
+h1{
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;
+    letter-spacing: 1px;
+    text-decoration: none;
+    margin: 40px 0px 0px 150px;
+    font-family: 'Roboto', sans-serif;
+}
+
+/*First Section Below of the Header*/
+#First_Section{
+    width: 100%;
+    height: 95px;
+    background: tomato;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+/*Article Inside of First Section*/
+.nav{
+    width: 178px;
+    height: 40px;
+    position: absolute;
+    background: violet;
+    display: inline-block;
+    margin: 23px 0px 0px 174px;
+}
+
+/*Icon Inside of the First Section*/
+.icon{
+    width: 44px;
+    height: 46px;
+    background: url(../icons/jeans.svg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/*Title Inside of the First Section*/
+.title{
+    color: white;
+    font-size: 22px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 1px;
+    text-decoration: none;
+    margin: -40px 0px 0px 67px;
+    font-family: 'Roboto', sans-serif;
+    
+}
