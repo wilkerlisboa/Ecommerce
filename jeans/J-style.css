@@ -37,7 +37,6 @@ h1{
 #First_Section{
     width: 100%;
     height: 95px;
-    background: tomato;
 }
 
 a{
@@ -49,8 +48,7 @@ a{
 .nav{
     width: 178px;
     height: 40px;
-    position: absolute;
-    background: violet;
+    position: absolute;;
     display: inline-block;
     margin: 23px 0px 0px 174px;
 }
@@ -67,7 +65,7 @@ a{
 
 /*Title Inside of the First Section*/
 .title{
-    color: white;
+    color: rgb(31 30 30);
     font-size: 22px;
     font-weight: 400;
     font-style: normal;
@@ -82,7 +80,6 @@ a{
     width: 178px;
     height: 40px;
     position: absolute;
-    background: violet;
     display: inline-block;
     margin: 23px 0px 0px 556px;
 }
@@ -102,7 +99,6 @@ a{
     width: 178px;
     height: 40px;
     position: absolute;
-    background: violet;
     display: inline-block;
     margin: 23px 0px 0px 943px;
 }
