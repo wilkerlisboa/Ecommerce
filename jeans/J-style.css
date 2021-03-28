@@ -77,3 +77,41 @@ a{
     font-family: 'Roboto', sans-serif;
     
 }
+
+.nav-01{
+    width: 178px;
+    height: 40px;
+    position: absolute;
+    background: violet;
+    display: inline-block;
+    margin: 23px 0px 0px 556px;
+}
+
+
+
+.icon-01{
+    width: 44px;
+    height: 46px;
+    background: url(../icons/shoes.svg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nav-02{
+    width: 178px;
+    height: 40px;
+    position: absolute;
+    background: violet;
+    display: inline-block;
+    margin: 23px 0px 0px 943px;
+}
+
+.icon-02{
+    width: 44px;
+    height: 46px;
+    background: url(../icons/vestidos.svg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
