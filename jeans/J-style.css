@@ -57,7 +57,7 @@ a{
     color: white;
 }
 
-/*Article Inside of First Section*/
+/*Article Jeans Inside of First Section*/
 .nav{
     width: 178px;
     height: 40px;
@@ -66,7 +66,7 @@ a{
     margin: 23px 0px 0px 174px;
 }
 
-/*Icon Inside of the First Section*/
+/*Icon Jeans Inside of the First Section*/
 .icon{
     width: 44px;
     height: 46px;
@@ -76,7 +76,7 @@ a{
     background-size: cover;
 }
 
-/*Title Inside of the First Section*/
+/*Title's Inside of the First Section*/
 .title{
     color: rgb(31 30 30);
     font-size: 22px;
@@ -89,6 +89,7 @@ a{
     
 }
 
+/*Article Shoes Inside of First Section*/
 .nav-01{
     width: 178px;
     height: 40px;
@@ -98,7 +99,7 @@ a{
 }
 
 
-
+/*Icon Shoes Inside of First Section*/
 .icon-01{
     width: 44px;
     height: 46px;
@@ -108,6 +109,7 @@ a{
     background-size: cover;
 }
 
+/*Article Dresses Inside of First Section*/
 .nav-02{
     width: 178px;
     height: 40px;
@@ -116,6 +118,7 @@ a{
     margin: 23px 0px 0px 943px;
 }
 
+/*Icon Shoes Inside of FIrst Section*/
 .icon-02{
     width: 44px;
     height: 46px;
