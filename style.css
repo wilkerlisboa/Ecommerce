@@ -70,14 +70,14 @@ ul a h1{
 
 
 /*Title of Icons Inside Block*/
-p{
+p {
     position: absolute;
     margin: 7px 0px 0px 51px;
-    color: black;
+    color: rgb(0 0 0);
     font-size: 21px;
     font-style: normal;
     font-family: 'Roboto';
-    font-weight: 600;
+    font-weight: 400;
 }
 
 .Promoção{
