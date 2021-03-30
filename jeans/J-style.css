@@ -127,3 +127,9 @@ a{
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+#Second_Section{
+    width: 100%;
+    height: 95px;
+    background: red;
+}
