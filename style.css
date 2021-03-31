@@ -16,7 +16,7 @@ header{
     height: 37px;
     position: absolute;
     margin: 33px 0px 0px 108px;
-    background: url(../icons/perfil.svg);
+    background: url(./icons/perfil.svg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: 30px;
