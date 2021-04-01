@@ -196,6 +196,18 @@ p {
     margin-top: 28px;
 }
 
+/*First Title Inside Section Jeans*/
+#title_second_section{
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 1px;
+    font-size: 23px;
+    font-weight: 700;
+    font-style: normal;
+    margin: 9px 0px 0px 588px;
+    position: absolute;
+}
+
+
 /*First Block Inside of Section of the Jeans*/
 .block_Destaques{
     background: white;
@@ -280,7 +292,7 @@ p {
     position: absolute;
 }
 
-
+/*Block General Inside Section of the Shoes*/
 .Block_shoes{
     background: white;
     width: 277px;
@@ -289,6 +301,7 @@ p {
     box-shadow: 10px 10px 10px -4px #0000006e;
 }
 
+/*Title General Inside of the Section of the Shoes*/
 .Title_shoes{
     font-family: 'Roboto', sans-serif;
     letter-spacing: 1px;
@@ -301,6 +314,7 @@ p {
     position: absolute;
 }
 
+/*Value General Inside of the Section of the Shoes*/
 .Title_valor{
     font-family: 'Roboto', sans-serif;
     letter-spacing: 1px;
@@ -312,6 +326,7 @@ p {
     position: absolute;
 }
 
+/*Image Inside First Block Inside Section of the Shoes*/
 .img_03{
     width: 277px;
     height: 296px;
@@ -322,6 +337,7 @@ p {
     background-size: cover;
 }
 
+/*Image Inside Second Block Inside Section of the Shoes*/
 .img_04{
     width: 277px;
     height: 296px;
@@ -332,6 +348,7 @@ p {
     background-size: cover;
 }
 
+/*Image Inside Second Block Inside Section of the Shoes*/
 .img_05{
     width: 277px;
     height: 296px;
@@ -342,15 +359,6 @@ p {
     background-size: cover;
 }
 
-#title_second_section{
-    font-family: 'Roboto', sans-serif;
-    letter-spacing: 1px;
-    font-size: 23px;
-    font-weight: 700;
-    font-style: normal;
-    margin: 9px 0px 0px 588px;
-    position: absolute;
-}
 
 
 
