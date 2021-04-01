@@ -143,9 +143,9 @@ a {
 }
 
 /*Section 0f the Product*/
-#Product{
+.Product{
   width: 100%;
-  height: 1084px;
+  height: 537px;
   margin: 19px 0px 0px 0px;
   display: flex;
   background: lightgreen;
@@ -231,6 +231,50 @@ a {
   height: 340px;
   margin: 59px 30px 0px 87px;
   background: url(https://images.unsplash.com/photo-1594693126713-dba8d90738bc?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=426&q=80);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/*Fifth Product*/
+.Product_Jeans_05{
+  width: 258px;
+  height: 340px;
+  margin: 59px 30px 0px 23px;
+  background: url(https://images.unsplash.com/photo-1592085553892-3da0f8addfdd?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/*Sixth Product*/
+.Product_Jeans_06{
+  width: 258px;
+  height: 340px;
+  margin: 59px 30px 0px 87px;
+  background: url(https://images.unsplash.com/photo-1600706507501-4601f17fa7b7?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=701&q=80);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/*Seventh Product*/
+.Product_Jeans_07{
+  width: 258px;
+  height: 340px;
+  margin: 59px 30px 0px 87px;
+  background: url(https://images.unsplash.com/photo-1542740348-39501cd6e2b4?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/*Eighth Product*/
+.Product_Jeans_08{
+  width: 258px;
+  height: 340px;
+  margin: 59px 30px 0px 87px;
+  background: url(https://images.unsplash.com/photo-1502324566254-d770566ef182?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
