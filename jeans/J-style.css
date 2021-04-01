@@ -162,6 +162,47 @@ a {
   background-size: cover;
 }
 
+/*Name General of Product's Inside Section of the Product*/
+.Name_Product{
+  position: absolute;
+  width: 200px;
+  height: 102px;
+  margin: 356px 0px 0px 0px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14.4px;
+  line-height: 21px;
+  color: black;
+}
+
+/*Parceled of Product's General Inside of the Section of the Product*/
+.Parceled_Product{
+  position: absolute;
+  width: 138px;
+  height: 20px;
+  margin: 403px 0px 0px 0px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: normal;
+  line-height: 20px;
+  color: rgba(0, 0, 0, 0.71);
+}
+
+/*Value of Product General Inside Section of the Product*/
+.Value_Product{
+  position: absolute;
+  width: 100px;
+  height: 20px;
+  margin: 432px 0px 0px 0px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20.4px;
+  line-height: 20px;
+  color: #C20D0D;
+}
+
 /*Second Product*/
 .Product_Jeans_02{
   width: 258px;
