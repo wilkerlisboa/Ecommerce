@@ -155,30 +155,42 @@ a {
 .Product_Jeans_01{
   width: 258px;
   height: 340px;
-  background: blue;
   margin: 59px 30px 0px 23px;
+  background: url(https://images.unsplash.com/photo-1568613065038-396d25f1c222?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 /*Second Product*/
 .Product_Jeans_02{
   width: 258px;
   height: 340px;
-  background: blue;
   margin: 59px 30px 0px 87px;
+  background: url(https://images.unsplash.com/photo-1586818239358-a4b31d07f7ed?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=297&q=80);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 /*Third Product*/
 .Product_Jeans_03{
   width: 258px;
   height: 340px;
-  background: blue;
   margin: 59px 30px 0px 87px;
+  background: url(https://images.unsplash.com/photo-1512130837266-eb3279fd086e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 /*Fourth Product*/
 .Product_Jeans_04{
   width: 258px;
   height: 340px;
-  background: blue;
   margin: 59px 30px 0px 87px;
+  background: url(https://images.unsplash.com/photo-1594693126713-dba8d90738bc?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=426&q=80);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
