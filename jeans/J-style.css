@@ -148,7 +148,6 @@ a {
   height: 537px;
   margin: 19px 0px 0px 0px;
   display: flex;
-  background: lightgreen;
 }
 
 /*First Product*/
@@ -286,7 +285,7 @@ a {
   width: 880px;
   height: 1px;
   position: absolute;
-  margin: 213px 0px 0px 233px;
+  margin: 66px 0px 0px 233px;
   background: #35313194;
 }
 
@@ -296,7 +295,7 @@ footer{
   height: 374px;
   padding: 9px 0px 12px 0px;
   position: absolute;
-  margin: 238px 0px 0px 0px;
+  margin: 95px 0px 0px 0px;
   display: inline-flex;
 }
 
