@@ -146,7 +146,6 @@ a {
 #Product{
   width: 100%;
   height: 778px;
-  background: red;
   margin: 19px 0px 0px 0px;
   display: flex;
 }
@@ -165,7 +164,7 @@ a {
 /*Name General of Product's Inside Section of the Product*/
 .Name_Product{
   position: absolute;
-  width: 200px;
+  width: 237px;
   height: 102px;
   margin: 356px 0px 0px 0px;
   font-family: 'Roboto';
