@@ -451,34 +451,6 @@ footer{
     color: #33323296;
 }
 
-#top{
-    width: 33px;
-    height: 30px;
-    margin: 1275px 0px 0px 616px;
-    padding: 10px;
-    cursor: pointer;
-    position: absolute;
-    outline: none;
-    background: url(./icons/Volta.svg);
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    transition: transform 1s;
-    transform: translateX(0) scale(0.5);
-}
-
-#top:hover,
-#top:focus {
-  background: url(./icons/Volta.svg);
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  transform: translateX(10px) scale(1.2);
-  
-}
-
-
-
 /*Scroll*/
 ::-webkit-scrollbar {
     width:10px;
