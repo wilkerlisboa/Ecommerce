@@ -359,12 +359,6 @@ p {
     background-size: cover;
 }
 
-
-
-
-
-
-
 /* Line of Footer*/
 .line_footer {
     width: 880px;
@@ -374,7 +368,7 @@ p {
     background: #35313194;
 }
 
-/*Roda-Pe*/
+/*Footer of the Home*/
 footer{
     width: 100%;
     height: 374px;
@@ -391,6 +385,7 @@ footer{
     margin: 26px 0px 0px 136px;
 }
 
+/*Title General Inside Footer of the Home*/
 .TOP-CATEGORIA{
     font-family: 'Roboto';
     font-size: 30px;
@@ -399,6 +394,7 @@ footer{
     color: #413d3d91;
 }
 
+/*Sub-Title General Inside Footer of the Home*/
 .sub-tops{
     position: absolute;
     font-family: 'Roboto';
@@ -409,6 +405,7 @@ footer{
     color: #413d3d91;
 }
 
+/*Sub-Title-01 General Inside Footer of the Home*/
 .sub-tops-01{
     position: absolute;
     color: #413d3d91;
@@ -419,7 +416,7 @@ footer{
     padding: 10px 0px 10px 0px;
 }
 
-
+/*Sub-Title-02 General Inside Footer of the Home*/
 .sub-tops-02{
     position: absolute;
     color: #413d3d91;
@@ -430,6 +427,7 @@ footer{
     padding: 10px 0px 10px 0px;
 }
 
+/*Button Inside of the Footer of the Home*/
 .button{
     display: inline-block;
     width: 274px;
@@ -446,6 +444,7 @@ footer{
     border-style: none;
 }
 
+/*Inside Inside of Button and of the Footer of the Home*/
 .Title_Button{
     position: absolute;
     margin: 285px 0px 0px 138px;
