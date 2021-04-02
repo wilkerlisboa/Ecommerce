@@ -1,0 +1,388 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /*Header*/
+  header {
+    width: 100%;
+    height: 100px;
+    background: rgb(238 130 238);
+  }
+  /*Button of come back Inside Header*/
+  .black {
+    width: 50px;
+    height: 25px;
+    position: absolute;
+    background: url(../icons/Voltar.svg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    margin: 38px 0px 0px 1244px;
+  }
+  
+  /*Circle of Profile Inside Header */
+  .Perfil {
+    width: 37px;
+    height: 37px;
+    position: absolute;
+    margin: 33px 0px 0px 108px;
+    background: url(../icons/perfil.svg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 30px;
+  }
+  
+  /*Title Inside Header*/
+  h1 {
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;
+    letter-spacing: 1px;
+    text-decoration: none;
+    margin: 40px 0px 0px 150px;
+    font-family: "Roboto", sans-serif;
+  }
+  
+  /*First Section Below of the Header*/
+  #First_Section {
+    width: 100%;
+    height: 95px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  /*Article Jeans Inside of First Section*/
+  .nav {
+    width: 178px;
+    height: 40px;
+    position: absolute;
+    display: inline-block;
+    margin: 23px 0px 0px 174px;
+  }
+  
+  /*Icon Jeans Inside of the First Section*/
+  .icon {
+    width: 44px;
+    height: 46px;
+    background: url(../icons/jeans.svg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  /*Title's Inside of the First Section*/
+  .title {
+    color: rgb(31 30 30);
+    font-size: 22px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 1px;
+    text-decoration: none;
+    margin: -40px 0px 0px 67px;
+    font-family: "Roboto", sans-serif;
+  }
+  
+  /*Article Shoes Inside of First Section*/
+  .nav-01 {
+    width: 178px;
+    height: 40px;
+    position: absolute;
+    display: inline-block;
+    margin: 23px 0px 0px 556px;
+  }
+  
+  /*Icon Shoes Inside of First Section*/
+  .icon-01 {
+    width: 44px;
+    height: 46px;
+    background: url(../icons/shoes.svg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  /*Article Dresses Inside of First Section*/
+  .nav-02 {
+    width: 178px;
+    height: 40px;
+    position: absolute;
+    display: inline-block;
+    margin: 23px 0px 0px 943px;
+  }
+  
+  /*Icon Shoes Inside of FIrst Section*/
+  .icon-02 {
+    width: 44px;
+    height: 46px;
+    background: url(../icons/vestidos.svg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  /*Second Section Below of Section Nav*/
+  #Second_Section {
+    width: 100%;
+    height: 180px;
+    display: inline-flex;
+  }
+  
+  /*Highli Inside of the Second Section*/
+  .Highli {
+    width: 301px;
+    height: 152px;
+    margin: 13px auto;
+    border-radius: 5px;
+    background: rgb(0 0 255);
+    box-shadow: 10px 10px 10px #5f5f5f2e;
+  }
+  
+  /*Section 0f the Product*/
+  .Product{
+    width: 100%;
+    height: 537px;
+    margin: 19px 0px 0px 0px;
+    display: flex;
+  }
+  
+  /*First Product*/
+  .Product_Jeans_01{
+    width: 258px;
+    height: 340px;
+    margin: 59px 30px 0px 23px;
+    background: url(https://images.unsplash.com/photo-1568613065038-396d25f1c222?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  /*Name General of Product's Inside Section of the Product*/
+  .Name_Product{
+    position: absolute;
+    width: 237px;
+    height: 102px;
+    margin: 356px 0px 0px 0px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14.4px;
+    line-height: 21px;
+    color: black;
+  }
+  
+  /*Parceled of Product's General Inside of the Section of the Product*/
+  .Parceled_Product{
+    position: absolute;
+    width: 138px;
+    height: 20px;
+    margin: 403px 0px 0px 0px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    line-height: 20px;
+    color: rgba(0, 0, 0, 0.71);
+  }
+  
+  /*Value of Product General Inside Section of the Product*/
+  .Value_Product{
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    margin: 432px 0px 0px 0px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20.4px;
+    line-height: 20px;
+    color: #C20D0D;
+  }
+  
+  /*Second Product*/
+  .Product_Jeans_02{
+    width: 258px;
+    height: 340px;
+    margin: 59px 30px 0px 87px;
+    background: url(https://images.unsplash.com/photo-1586818239358-a4b31d07f7ed?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=297&q=80);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  /*Third Product*/
+  .Product_Jeans_03{
+    width: 258px;
+    height: 340px;
+    margin: 59px 30px 0px 87px;
+    background: url(https://images.unsplash.com/photo-1512130837266-eb3279fd086e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  /*Fourth Product*/
+  .Product_Jeans_04{
+    width: 258px;
+    height: 340px;
+    margin: 59px 30px 0px 87px;
+    background: url(https://images.unsplash.com/photo-1594693126713-dba8d90738bc?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=426&q=80);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  /*Fifth Product*/
+  .Product_Jeans_05{
+    width: 258px;
+    height: 340px;
+    margin: 59px 30px 0px 23px;
+    background: url(https://images.unsplash.com/photo-1592085553892-3da0f8addfdd?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  /*Sixth Product*/
+  .Product_Jeans_06{
+    width: 258px;
+    height: 340px;
+    margin: 59px 30px 0px 87px;
+    background: url(https://images.unsplash.com/photo-1600706507501-4601f17fa7b7?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=701&q=80);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  /*Seventh Product*/
+  .Product_Jeans_07{
+    width: 258px;
+    height: 340px;
+    margin: 59px 30px 0px 87px;
+    background: url(https://images.unsplash.com/photo-1542740348-39501cd6e2b4?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  /*Eighth Product*/
+  .Product_Jeans_08{
+    width: 258px;
+    height: 340px;
+    margin: 59px 30px 0px 87px;
+    background: url(https://images.unsplash.com/photo-1502324566254-d770566ef182?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  
+  /* Line of Footer*/
+  .line_footer {
+    width: 880px;
+    height: 1px;
+    position: absolute;
+    margin: 52px 0px 0px 233px;
+    background: #35313194;
+  }
+  
+  /*Footer of the Home*/
+  footer{
+    width: 100%;
+    height: 374px;
+    padding: 9px 0px 12px 0px;
+    position: absolute;
+    margin: 95px 0px 0px 0px;
+    display: inline-flex;
+  }
+  
+  /*SECTION CATEGORI*/
+  .Top-Cat{
+    width: 273px;
+    height: 182px;
+    margin: 26px 0px 0px 136px;
+  }
+  
+  /*Title General Inside Footer of the Home*/
+  .TOP-CATEGORIA{
+    font-family: 'Roboto';
+    font-size: 30px;
+    font-style: normal;
+    font-weight: bolder;
+    color: #413d3d91;
+    position: absolute;
+    margin: -20px 0px 0px 0px;
+  }
+  
+  /*Sub-Title General Inside Footer of the Home*/
+  .sub-tops{
+    position: absolute;
+    font-family: 'Roboto';
+    font-size: 19px;
+    font-weight: 500;
+    margin: 10px 0px 0px 0px;
+    padding: 10px 0px 10px 0px;
+    color: #413d3d91;
+  }
+  
+  /*Sub-Title-01 General Inside Footer of the Home*/
+  .sub-tops-01{
+    position: absolute;
+    color: #413d3d91;
+    font-family: 'Roboto';
+    font-size: 19px;
+    font-weight: 500;
+    margin: 19px 0px 0px 0px;
+    padding: 10px 0px 10px 0px;
+  }
+  
+  /*Sub-Title-02 General Inside Footer of the Home*/
+  .sub-tops-02{
+    position: absolute;
+    color: #413d3d91;
+    font-family: 'Roboto';
+    font-size: 19px;
+    font-weight: 500;
+    margin: 29px 0px 0px 0px;
+    padding: 10px 0px 10px 0px;
+  }
+  
+  /*Button Inside of the Footer of the Home*/
+  .button{
+    display: inline-block;
+    width: 274px;
+    height: 20px;
+    position: absolute;
+    margin: 323px 0px 0px 135px;
+    font-size: 18px;
+    font-style: normal;
+    font-family: 'Roboto';
+    padding: 10px 0px 27px 0px;
+    background: #ff9900;
+    color: white;
+    outline: none;
+    border-style: none;
+  }
+  
+  /*Inside Inside of Button and of the Footer of the Home*/
+  .Title_Button{
+    position: absolute;
+    margin: 285px 0px 0px 138px;
+    color: #33323296;
+  }
+  
+  /*Scroll*/
+  ::-webkit-scrollbar {
+    width:10px;
+    height: 10px;
+    background: white;
+  }
+  
+  /*Scroll*/
+  ::-webkit-scrollbar-thumb {
+    border-radius: 9px;
+    background: #47474796;
+  }
