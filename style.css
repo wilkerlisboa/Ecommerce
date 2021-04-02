@@ -15,7 +15,7 @@ header{
     width: 50px;
     height: 25px;
     position: absolute;
-    background: url(../icons/Loja.svg);
+    background: url(./icons/Loja.svg);
     background-position: center center;
     background-repeat: no-repeat;
     margin: 38px 0px 0px 1244px;
