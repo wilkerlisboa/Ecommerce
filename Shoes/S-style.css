@@ -1,69 +1,70 @@
-* {
-    margin: 0;
-    padding: 0;
-  }
+*{
+  margin: 0;
+  padding: 0;
+}
   
-  /*Header*/
-  header {
-    width: 100%;
-    height: 100px;
-    background: rgb(238 130 238);
-  }
+/*Header*/
+header {
+  width: 100%;
+  height: 100px;
+  background: rgb(238 130 238);
+}
   
-  /*Button of Store Inside Header*/
-  .Store {
-    width: 50px;
-    height: 25px;
-    position: absolute;
-    background: url(../icons/Loja.svg);
-    background-position: center center;
-    background-repeat: no-repeat;
-    margin: 38px 0px 0px 1244px;
-  }
+/*Button of Home Inside Header*/
+.Home {
+  width: 50px;
+  height: 25px;
+  position: absolute;
+  margin: 38px 0px 0px 1244px;
+  background: url(./icons/home.svg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
   
-  /*Circle of Profile Inside Header */
-  .Perfil {
-    width: 37px;
-    height: 37px;
-    position: absolute;
-    margin: 33px 0px 0px 108px;
-    background: url(../icons/perfil.svg);
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: 30px;
-  }
+/*Circle of Profile Inside Header */
+.Perfil {
+  width: 37px;
+  height: 37px;
+  position: absolute;
+  margin: 33px 0px 0px 108px;
+  background: url(../icons/perfil.svg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: 30px;
+}
   
-  /*Title Inside Header*/
-  h1 {
-    color: white;
-    font-size: 16px;
-    font-weight: 400;
-    font-style: normal;
-    position: absolute;
-    letter-spacing: 1px;
-    text-decoration: none;
-    margin: 40px 0px 0px 150px;
-    font-family: "Roboto", sans-serif;
-  }
+/*Title Inside Header*/
+h1 {
+  color: white;
+  font-size: 16px;
+  font-weight: 400;
+  font-style: normal;
+  position: absolute;
+  letter-spacing: 1px;
+  text-decoration: none;
+  margin: 40px 0px 0px 150px;
+  font-family: "Roboto", sans-serif;
+}
   
-  /*First Section Below of the Header*/
-  #First_Section {
-    width: 100%;
-    height: 95px;
-  }
+/*First Section Below of the Header*/
+#First_Section {
+  width: 100%;
+  height: 95px;
+}
   
-  a {
-    text-decoration: none;
-    color: white;
-  }
+a {
+  text-decoration: none;
+  color: white;
+}
   
-  /*Article Jeans Inside of First Section*/
-  .nav {
-    width: 178px;
-    height: 40px;
-    position: absolute;
-    display: inline-block;
-    margin: 23px 0px 0px 174px;
+/*Article Jeans Inside of First Section*/
+.nav {
+  width: 178px;
+  height: 40px;
+  position: absolute;
+  display: inline-block;
+  margin: 23px 0px 0px 174px;
   }
   
   /*Icon Jeans Inside of the First Section*/
