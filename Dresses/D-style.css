@@ -10,15 +10,16 @@ header {
   background: rgb(238 130 238);
 }
   
-/*Button of Store Inside Header*/
-.Store {
+/*Button of Home Inside Header*/
+.Home {
   width: 50px;
   height: 25px;
   position: absolute;
-  background: url(../icons/Loja.svg);
+  margin: 38px 0px 0px 1244px;
+  background: url(../icons/home.svg);
   background-position: center center;
   background-repeat: no-repeat;
-  margin: 38px 0px 0px 1244px;
+  background-size: contain;
 }
   
 /*Circle of Profile Inside Header */
