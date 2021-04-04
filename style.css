@@ -475,3 +475,120 @@ footer{
     border-radius: 9px;
     background: #47474796;
 }
+
+
+/*Mobile*/
+
+@media  only screen and  (max-width: 768px),  only screen and (max-device-width: 768px){
+
+
+    body{
+        overflow-x: hidden;
+    }
+
+    /*Header*/
+    header{
+        width: 100%;
+        height: 129px;
+        background: rgb(238 130 238);
+    }
+
+    /*Button of Home Inside Header*/
+    .Home {
+        width: 50px;
+        height: 25px;
+        position: absolute;
+        margin: 38px 0px 0px 1244px;
+        background: url(./icons/home.svg);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+
+    /*Circle Profile Inside Header*/
+    .Perfil{
+        width: 13%;
+        height: 6%;
+        position: absolute;
+        margin: 19px 0px 0px 165px;
+        background: url(./icons/perfil.svg);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    /*Title right of Circle Profile and Inside Header*/
+    .title_lef_Login{
+        color: rgb(255 255 255);
+        font-size: 21px;
+        font-weight: 400;
+        font-style: normal;
+        position: absolute;
+        letter-spacing: 1px;
+        text-decoration: none;
+        margin: 79px 0px 0px 107px;
+        font-family: "Roboto", sans-serif;
+    }
+
+    .icon {
+        width: 38px;
+        height: 38px;
+        position: absolute;
+        background: url(./icons/jeans.svg);
+        margin: 33px 0px 0px 140px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .icon-02 {
+        width: 38px;
+        height: 38px;
+        position: absolute;
+        background: url(./icons/shoes.svg);
+        margin: 99px 0px 0px 144px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .icon-03 {
+        width: 38px;
+        height: 38px;
+        position: absolute;
+        background: url(./icons/vestidos.svg);
+        margin: 165px 0px 0px 147px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .Promotion {
+        width: 100%;
+        height: 361px;
+        text-align: center;
+        display: block;
+        margin: 252px 0px 0px 0px;
+    }
+
+    .title {
+        font-family: 'Roboto', sans-serif;
+        letter-spacing: 1px;
+        font-size: 23px;
+        font-weight: 700;
+        font-style: normal;
+        margin: -65px 0px 0px 135px;
+    }
+
+    #promo_01 {
+        width: 166px;
+        height: 218px;
+        margin: 57px 0px 96px 109px;
+        border-radius: 4px;
+        background: url(https://images.unsplash.com/photo-1596552639068-99bd471b579c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=375&q=80);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+
+}
