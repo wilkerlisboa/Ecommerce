@@ -506,9 +506,9 @@ footer{
     }
 
     /*Circle Profile Inside Header*/
-    .Perfil{
-        width: 13%;
-        height: 6%;
+    .Perfil {
+        width: 11%;
+        height: 5%;
         position: absolute;
         margin: 19px 0px 0px 165px;
         background: url(./icons/perfil.svg);
@@ -651,6 +651,74 @@ footer{
         font-style: normal;
         margin: -59px 0px 0px 181px;
         position: absolute;
+    }
+
+    .Shoes {
+        width: 100%;
+        height: 377px;
+        text-align: center;
+        display: block;
+        margin: 1091px 0px 96px -30px;
+    }
+
+    #title_third_section {
+        font-family: 'Roboto', sans-serif;
+        letter-spacing: 1px;
+        font-size: 23px;
+        font-weight: 700;
+        font-style: normal;
+        margin: -46px 0px 0px 180px;
+        position: absolute;
+    }
+
+    .line_footer {
+        width: 100%;
+        height: 1px;
+        position: absolute;
+        margin: 932px 0px 0px 0px;
+        background: #35313194;
+    }
+
+    footer {
+        width: 100%;
+        height: 374px;
+        padding: 9px 0px 384px 0px;
+        position: absolute;
+        margin: 917px 0px 0px -63px;
+        display: block;
+    }
+
+    .Title_Button {
+        position: absolute;
+        margin: 26px 0px 0px 138px;
+        color: #33323296;
+    }
+
+    .button {
+        display: inline-block;
+        width: 274px;
+        height: 20px;
+        position: absolute;
+        margin: 61px 0px 0px 135px;
+        font-size: 18px;
+        font-style: normal;
+        font-family: 'Roboto';
+        padding: 10px 0px 27px 0px;
+        background: #ff9900;
+        color: white;
+        outline: none;
+        border-style: none;
+    }
+
+    .Home {
+        width: 50px;
+        height: 25px;
+        position: absolute;
+        margin: 22px 0px 0px 8px;
+        background: url(./icons/home.svg);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: contain;
     }
 
 }
